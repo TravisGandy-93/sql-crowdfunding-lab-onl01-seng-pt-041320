@@ -4,7 +4,7 @@ INSERT INTO users (name, age) VALUES ('Iguana', 4);
 INSERT INTO users (name, age) VALUES ('Alex', 33);
 INSERT INTO users (name, age) VALUES ('Amanda', 24);
 INSERT INTO users (name, age) VALUES ('Sophie', 24);
-INSERT INTO users (name, age) VALUES ();
+INSERT INTO users (name, age) VALUES ('Rosey', 9);
 INSERT INTO users (name, age) VALUES ();
 INSERT INTO users (name, age) VALUES ();
 INSERT INTO users (name, age) VALUES ();
