@@ -1,1 +1,1 @@
-INSERT INTO users (name, age) VALUES ("User1", 18)
+INSERT INTO users (name, age) VALUES ("User1", 18);
