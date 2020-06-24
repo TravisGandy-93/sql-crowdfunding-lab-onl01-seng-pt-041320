@@ -50,15 +50,24 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (12.00, 13, 6);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (19.00, 14, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 15, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 16, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (35.50, 17, 7);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 18, 8);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (60.00, 19, 9);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (70.00, 20, 10);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100.00, 20, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 19, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 18, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (90.00, 17, 9);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (;
 INSERT INTO pledges (amount, user_id, project_id) VALUES (;
 
-(21, 35.50, 17, 7),
-(22, 40.00, 18, 8),
-(23, 60.00, 19, 9),
-(24, 70.00, 20, 10),
-(25, 100.00, 20, 4),
-(26, 40.00, 19, 1),
-(27, 20.00, 18, 6),
-(28, 90.00, 17, 9),
+(21, ,
+(22, ,
+(23, ,
+(24, ,
+(25, ,
+(26, ,
+(27, ,
+(28, ,
 (29, 230.00, 16, 6),
 (30, 450.00, 15, 5);
